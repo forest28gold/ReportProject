@@ -1,0 +1,6 @@
+framework module SwiftWebViewProgress {
+  umbrella header "SwiftWebViewProgress-umbrella.h"
+
+  export *
+  module * { export * }
+}

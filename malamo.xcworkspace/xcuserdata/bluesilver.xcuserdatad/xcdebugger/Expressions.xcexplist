@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MAStep61ViewController.initLoadMotherTongueData():MAStep61ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GlobalData.motherTongueArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MAStep7ViewController.nextButtonPressed(_:):MAStep7ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GlobalData.incidentReport">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MAStep1ViewController.loadIncidentKindData():MAStep1ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "icon_img.url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MAHomeViewController.viewDidLoad():MAHomeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MAStep5ViewController.initLoadEthnicData():MAStep5ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GlobalData.ethnicArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

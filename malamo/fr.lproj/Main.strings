@@ -1,0 +1,513 @@
+
+/* Class = "UITextField"; placeholder = "User can enter URL or past from clipboard"; ObjectID = "0Cf-2d-qxt"; */
+"0Cf-2d-qxt.placeholder" = "L’utilisateur peut entrer l’URL et coller à partir du presse-papiers";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "0Zd-6m-9Ah"; */
+"0Zd-6m-9Ah.normalTitle" = "Langue";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "0b8-i9-CUn"; */
+"0b8-i9-CUn.text" = "Réglages";
+
+/* Class = "UIButton"; normalTitle = "Age"; ObjectID = "0iv-zV-S8S"; */
+"0iv-zV-S8S.normalTitle" = "Âge";
+
+/* Class = "UILabel"; text = "Ex : English"; ObjectID = "0wF-es-4kH"; */
+"0wF-es-4kH.text" = "Ex : Anglais";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "1QS-7V-eba"; */
+"1QS-7V-eba.placeholder" = "Nom";
+
+/* Class = "UIButton"; normalTitle = "Time of incident"; ObjectID = "1Zp-VG-Ycj"; */
+"1Zp-VG-Ycj.normalTitle" = "Heure de l’incident";
+
+/* Class = "UIButton"; normalTitle = "Religion"; ObjectID = "29d-hP-i1m"; */
+"29d-hP-i1m.normalTitle" = "Religion";
+
+/* Class = "UITextField"; placeholder = "Find an address"; ObjectID = "2Y5-t6-kXU"; */
+"2Y5-t6-kXU.placeholder" = "Chercher une adresse";
+
+/* Class = "UITextField"; placeholder = "Find an address"; ObjectID = "3V3-Oe-Re5"; */
+"3V3-Oe-Re5.placeholder" = "Chercher une adresse";
+
+/* Class = "UILabel"; text = "Ex : 18 to 30"; ObjectID = "4Sr-fG-cSF"; */
+"4Sr-fG-cSF.text" = "Ex : 18 à 30";
+
+/* Class = "UILabel"; text = "Ex : Bus or Coach"; ObjectID = "4kW-nd-jx6"; */
+"4kW-nd-jx6.text" = "Ex : Autobus ou autocar";
+
+/* Class = "UILabel"; text = "Ex : Website / Blog  etc..."; ObjectID = "4lf-ij-dKf"; */
+"4lf-ij-dKf.text" = "Ex : Site Web / Blog etc";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "65O-JP-SvH"; */
+"65O-JP-SvH.normalTitle" = "Utiliser";
+
+/* Class = "UILabel"; text = "Resources"; ObjectID = "6aY-o4-O2s"; */
+"6aY-o4-O2s.text" = "Ressources";
+
+/* Class = "UILabel"; text = "Other relevant information"; ObjectID = "77Z-C4-bbh"; */
+"77Z-C4-bbh.text" = "Autres informations pertinentes";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "7EQ-gO-7RU"; */
+"7EQ-gO-7RU.placeholder" = "Numéro de téléphone";
+
+/* Class = "UILabel"; text = "Web link"; ObjectID = "7b1-BA-Nhs"; */
+"7b1-BA-Nhs.text" = "Lien web";
+
+/* Class = "UILabel"; text = "Ex : Yes"; ObjectID = "7gQ-jn-g1C"; */
+"7gQ-jn-g1C.text" = "Ex : Oui";
+
+/* Class = "UIButton"; normalTitle = "1-877-687-7141"; ObjectID = "8LX-0d-L0h"; */
+"8LX-0d-L0h.normalTitle" = "1-877-687-7141";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "91a-hi-nXM"; */
+"91a-hi-nXM.normalTitle" = "Sauvegarder";
+
+/* Class = "UIButton"; normalTitle = "Tracking number"; ObjectID = "9P7-yS-BjQ"; */
+"9P7-yS-BjQ.normalTitle" = "Numéro de suivi";
+
+/* Class = "UILabel"; text = "Audio recording"; ObjectID = "9ZO-1d-0KU"; */
+"9ZO-1d-0KU.text" = "Enregistrement audio";
+
+/* Class = "UIButton"; normalTitle = "Do you know the victim?"; ObjectID = "AFb-5I-ucy"; */
+"AFb-5I-ucy.normalTitle" = "Connaissez-vous la victime?";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Aw6-XA-aqq"; */
+"Aw6-XA-aqq.normalTitle" = "Suivant";
+
+/* Class = "UIButton"; normalTitle = "Time of the incident"; ObjectID = "BdQ-ea-dwR"; */
+"BdQ-ea-dwR.normalTitle" = "Heure de l’incident";
+
+/* Class = "UIButton"; normalTitle = "Description of the incident"; ObjectID = "Bvy-KD-EGD"; */
+"Bvy-KD-EGD.normalTitle" = "Description de l’incident";
+
+/* Class = "UIButton"; normalTitle = "Religion"; ObjectID = "ByE-Wo-g8z"; */
+"ByE-Wo-g8z.normalTitle" = "Religion";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "CzD-9d-qOW"; */
+"CzD-9d-qOW.normalTitle" = "Annuler";
+
+/* Class = "UILabel"; text = "Ex : dd/mm/yyyy"; ObjectID = "Eqw-BO-q3h"; */
+"Eqw-BO-q3h.text" = "Ex : dd/mm/yyyy";
+
+/* Class = "UILabel"; text = "Ex : hh:mm"; ObjectID = "FQi-Y6-D2Y"; */
+"FQi-Y6-D2Y.text" = "Ex : hh:mm";
+
+/* Class = "UIButton"; normalTitle = "Apply Filters"; ObjectID = "Fsn-Y9-9ws"; */
+"Fsn-Y9-9ws.normalTitle" = "Appliquer les filtres";
+
+/* Class = "UILabel"; text = "Montreal"; ObjectID = "Fw8-3A-AnY"; */
+"Fw8-3A-AnY.text" = "Montréal";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "Fzd-MC-dwD"; */
+"Fzd-MC-dwD.text" = "FAQ";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "G70-7a-KBu"; */
+"G70-7a-KBu.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Ex : hh:mm"; ObjectID = "GCp-nC-X8H"; */
+"GCp-nC-X8H.text" = "Ex : hh:mm";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "GHv-Fl-ME9"; */
+"GHv-Fl-ME9.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "GJp-jc-zxZ"; */
+"GJp-jc-zxZ.text" = "Filtrer";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Gbh-6r-1CZ"; */
+"Gbh-6r-1CZ.normalTitle" = "Suivant";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "H5m-P8-LGA"; */
+"H5m-P8-LGA.title" = "Annuler";
+
+/* Class = "UIButton"; normalTitle = "Internet and social media"; ObjectID = "HM2-dm-Row"; */
+"HM2-dm-Row.normalTitle" = "Internet et médias sociaux";
+
+/* Class = "UILabel"; text = "Audio"; ObjectID = "HOD-CI-1gd"; */
+"HOD-CI-1gd.text" = "Audio";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "I4z-v8-dVI"; */
+"I4z-v8-dVI.title" = "Annuler";
+
+/* Class = "UILabel"; text = "Ex : Man"; ObjectID = "I99-t6-2qT"; */
+"I99-t6-2qT.text" = "Ex : Homme";
+
+/* Class = "UIButton"; normalTitle = "Gender expressed"; ObjectID = "Ira-Nn-dIZ"; */
+"Ira-Nn-dIZ.normalTitle" = "Genre exprimé";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "J9e-7x-LnK"; */
+"J9e-7x-LnK.normalTitle" = "Annuler";
+
+/* Class = "UIButton"; normalTitle = "514-687-7141"; ObjectID = "JCI-du-iUN"; */
+"JCI-du-iUN.normalTitle" = "514-687-7141";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "K9v-9x-j8y"; */
+"K9v-9x-j8y.title" = "Annuler";
+
+/* Class = "UILabel"; text = "Welcome to MALAMO"; ObjectID = "KC2-dS-lh4"; */
+"KC2-dS-lh4.text" = "Bienvenue sur MALAMO";
+
+/* Class = "UIButton"; normalTitle = "See everything"; ObjectID = "KFV-aS-pMU"; */
+"KFV-aS-pMU.normalTitle" = "Tout voir";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Kws-pF-udv"; */
+"Kws-pF-udv.normalTitle" = "Suivant";
+
+/* Class = "UIButton"; normalTitle = "Name"; ObjectID = "L05-Bo-coY"; */
+"L05-Bo-coY.normalTitle" = "Nom";
+
+/* Class = "UILabel"; text = "Ex : Heterosexual"; ObjectID = "LdF-4F-aZM"; */
+"LdF-4F-aZM.text" = "Ex : Hétérosexuel";
+
+/* Class = "UILabel"; text = "Ex : Atheist"; ObjectID = "MBu-SK-dRC"; */
+"MBu-SK-dRC.text" = "Ex : Athée";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "MlK-Q6-dDr"; */
+"MlK-Q6-dDr.text" = "Nom";
+
+/* Class = "UIButton"; normalTitle = "Date of the incident"; ObjectID = "MvH-St-zKS"; */
+"MvH-St-zKS.normalTitle" = "Date de l’incident";
+
+/* Class = "UILabel"; text = "Ex : Heterosexual"; ObjectID = "Myn-rS-jkX"; */
+"Myn-rS-jkX.text" = "Ex : Hétérosexuel";
+
+/* Class = "UILabel"; text = "Ex : hh:mm"; ObjectID = "NPG-yQ-YRS"; */
+"NPG-yQ-YRS.text" = "Ex : hh:mm";
+
+/* Class = "UILabel"; text = "I have a tracking\nnumber"; ObjectID = "PGO-Zb-5gO"; */
+"PGO-Zb-5gO.text" = "J’ai un numéro\nde suivi";
+
+/* Class = "UIButton"; normalTitle = "Ethnic / Cultural background"; ObjectID = "PYj-iI-6Ho"; */
+"PYj-iI-6Ho.normalTitle" = "Origine ethnique / culturelle";
+
+/* Class = "UIButton"; normalTitle = "What is your relationship with the victim?"; ObjectID = "Q1b-Ss-lfl"; */
+"Q1b-Ss-lfl.normalTitle" = "Quelle est votre relation avec la victime?";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "QeN-vu-AU1"; */
+"QeN-vu-AU1.title" = "Annuler";
+
+/* Class = "UIButton"; normalTitle = "Age"; ObjectID = "QpV-KG-n4X"; */
+"QpV-KG-n4X.normalTitle" = "Âge";
+
+/* Class = "UIButton"; normalTitle = "Ethnic / Culture background"; ObjectID = "Qto-eX-Nex"; */
+"Qto-eX-Nex.normalTitle" = "Origine ethnique / culturelle";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "R7Z-c4-zoH"; */
+"R7Z-c4-zoH.normalTitle" = "Non";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "RIA-kb-uwT"; */
+"RIA-kb-uwT.normalTitle" = "Sauver";
+
+/* Class = "UIButton"; normalTitle = "Anonymity"; ObjectID = "RJS-Tt-ISQ"; */
+"RJS-Tt-ISQ.normalTitle" = "Anonymat";
+
+/* Class = "UIButton"; normalTitle = "Details of the means of transport"; ObjectID = "RMN-yV-MBd"; */
+"RMN-yV-MBd.normalTitle" = "Moyen de transport";
+
+/* Class = "UILabel"; text = "Report"; ObjectID = "SHH-TX-9gq"; */
+"SHH-TX-9gq.text" = "Signalement";
+
+/* Class = "UILabel"; text = "Service number"; ObjectID = "SLP-Vd-6Hj"; */
+"SLP-Vd-6Hj.text" = "Détails sur le moyen de transport";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SOn-01-b4T"; */
+"SOn-01-b4T.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "SYc-z8-cyj"; */
+"SYc-z8-cyj.normalTitle" = "Oui";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "Spn-Bj-q3P"; */
+"Spn-Bj-q3P.normalTitle" = "Oui";
+
+/* Class = "UILabel"; text = "Learn more +"; ObjectID = "TLo-4V-wWl"; */
+"TLo-4V-wWl.text" = "En savoir +";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "Twi-1b-BpS"; */
+"Twi-1b-BpS.normalTitle" = "Fermer";
+
+/* Class = "UILabel"; text = "Ex : Canadian"; ObjectID = "U2Y-6h-b5u"; */
+"U2Y-6h-b5u.text" = "Ex : Canadien";
+
+/* Class = "UILabel"; text = "Information"; ObjectID = "UDE-CC-Kvu"; */
+"UDE-CC-Kvu.text" = "Information";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "UHg-sX-f0D"; */
+"UHg-sX-f0D.normalTitle" = "Ville";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "UiJ-y5-yjR"; */
+"UiJ-y5-yjR.normalTitle" = "Non";
+
+/* Class = "UILabel"; text = "Report an incident or\nhate crime"; ObjectID = "VXq-Mx-ZMW"; */
+"VXq-Mx-ZMW.text" = "Signaler un incident ou un\ncrime haineux";
+
+/* Class = "UIButton"; normalTitle = "Gender expressed"; ObjectID = "WBe-yS-LXc"; */
+"WBe-yS-LXc.normalTitle" = "Genre exprimé";
+
+/* Class = "UILabel"; text = "Ex : Handicap mental"; ObjectID = "Wnr-Da-6mC"; */
+"Wnr-Da-6mC.text" = "Ex : Handicap mental";
+
+/* Class = "UIButton"; normalTitle = "Location Details"; ObjectID = "X5o-Le-11Q"; */
+"X5o-Le-11Q.normalTitle" = "Précisions sur le lieu";
+
+/* Class = "UILabel"; text = "Discrimination"; ObjectID = "Y5s-1q-DBO"; */
+"Y5s-1q-DBO.text" = "Discrimination";
+
+/* Class = "UIButton"; normalTitle = "Add a description of a \nvictim of the incident"; ObjectID = "YEY-HK-fOG"; */
+"YEY-HK-fOG.normalTitle" = "Ajouter la description d’une\n     victime de l’incident";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Yxy-HO-POn"; */
+"Yxy-HO-POn.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Victim"; ObjectID = "ZXl-wz-dxc"; */
+"ZXl-wz-dxc.text" = "Victime";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Zdj-kH-ZRc"; */
+"Zdj-kH-ZRc.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Ex : Canadian"; ObjectID = "ZnV-YB-r5b"; */
+"ZnV-YB-r5b.text" = "Ex : Canadien";
+
+/* Class = "UILabel"; text = "00:00 / 01:00"; ObjectID = "aB5-JX-N8X"; */
+"aB5-JX-N8X.text" = "00:00 / 01:00";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "aHq-id-ptZ"; */
+"aHq-id-ptZ.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Ex : 5"; ObjectID = "b2z-iC-Jlb"; */
+"b2z-iC-Jlb.text" = "Ex : 5";
+
+/* Class = "UIButton"; normalTitle = "Date of incident"; ObjectID = "bE1-oO-E1T"; */
+"bE1-oO-E1T.normalTitle" = "Date de l’incident";
+
+/* Class = "UILabel"; text = "Examples:"; ObjectID = "bU0-60-2IK"; */
+"bU0-60-2IK.text" = "Exemples :";
+
+/* Class = "UILabel"; text = "Physical location or address"; ObjectID = "bu2-02-bCv"; */
+"bu2-02-bCv.text" = "Je connais l’emplacement ou l’adresse";
+
+/* Class = "UIButton"; normalTitle = "Victim"; ObjectID = "cOu-dl-jhu"; */
+"cOu-dl-jhu.normalTitle" = "Victime";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "cyj-Pt-uDO"; */
+"cyj-Pt-uDO.title" = "Annuler";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "czE-cC-Asr"; */
+"czE-cC-Asr.title" = "OK";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "dqs-fR-zTQ"; */
+"dqs-fR-zTQ.text" = "FAQ";
+
+/* Class = "UILabel"; text = "Ex : city or region"; ObjectID = "ds4-Cb-YXN"; */
+"ds4-Cb-YXN.text" = "Ex : ville";
+
+/* Class = "UIButton"; normalTitle = "How many people were there?"; ObjectID = "eVX-ed-rRM"; */
+"eVX-ed-rRM.normalTitle" = "Combien d’individus étaient présents?";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "eaQ-Ec-6Hh"; */
+"eaQ-Ec-6Hh.title" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Identification"; ObjectID = "egM-jd-tBK"; */
+"egM-jd-tBK.normalTitle" = "Identification";
+
+/* Class = "UILabel"; text = "Photo"; ObjectID = "epu-wH-DBC"; */
+"epu-wH-DBC.text" = "Photo";
+
+/* Class = "UIButton"; normalTitle = "Describe another author of the incident"; ObjectID = "fAN-Bx-f7a"; */
+"fAN-Bx-f7a.normalTitle" = "   Décrire un autre\nauteur de l’incident";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "fRW-DI-NSG"; */
+"fRW-DI-NSG.placeholder" = "Adresse courriel";
+
+/* Class = "UIButton"; normalTitle = "Ethnic / Cultural background"; ObjectID = "g8P-2f-CBi"; */
+"g8P-2f-CBi.normalTitle" = "Origine ethnique / culturelle";
+
+/* Class = "UILabel"; text = "Ex : Man"; ObjectID = "gDF-mX-Rnh"; */
+"gDF-mX-Rnh.text" = "Ex : Homme";
+
+/* Class = "UIButton"; normalTitle = "Browser the map"; ObjectID = "gWb-ND-5XP"; */
+"gWb-ND-5XP.normalTitle" = "Parcourir la carte des ressources d’aide";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "gXW-qR-5nY"; */
+"gXW-qR-5nY.normalTitle" = "Annuler";
+
+/* Class = "UIButton"; normalTitle = "First Name"; ObjectID = "gc1-ro-Eg4"; */
+"gc1-ro-Eg4.normalTitle" = "Prénom";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "gnM-6P-gtu"; */
+"gnM-6P-gtu.title" = "OK";
+
+/* Class = "UIButton"; normalTitle = "Sexual Orientation"; ObjectID = "gto-Lc-BgN"; */
+"gto-Lc-BgN.normalTitle" = "Orientation sexuelle";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "h4p-sb-LgT"; */
+"h4p-sb-LgT.normalTitle" = "Annuler";
+
+/* Class = "UILabel"; text = "Ex : Canadian"; ObjectID = "hAI-Gu-k0I"; */
+"hAI-Gu-k0I.text" = "Ex : Canadien";
+
+/* Class = "UIButton"; normalTitle = "Time of incident"; ObjectID = "hPY-X6-odi"; */
+"hPY-X6-odi.normalTitle" = "Heure de l’incident";
+
+/* Class = "UIButton"; normalTitle = "Age"; ObjectID = "hVU-1Y-mpy"; */
+"hVU-1Y-mpy.normalTitle" = "Âge";
+
+/* Class = "UILabel"; text = "Ex : 18 to 30"; ObjectID = "hWj-4z-ycP"; */
+"hWj-4z-ycP.text" = "Ex : 18 à 30";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "hlX-lw-bZV"; */
+"hlX-lw-bZV.title" = "Annuler";
+
+/* Class = "UILabel"; text = "Ex : English"; ObjectID = "hqp-h9-p50"; */
+"hqp-h9-p50.text" = "Ex : Anglais";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "iIQ-9q-z1U"; */
+"iIQ-9q-z1U.normalTitle" = "Oui";
+
+/* Class = "UIButton"; normalTitle = "Distinctive signs"; ObjectID = "j5b-WM-kP4"; */
+"j5b-WM-kP4.normalTitle" = "Signes distinctifs";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "jC7-7W-cZr"; */
+"jC7-7W-cZr.normalTitle" = "Suivant";
+
+/* Class = "UIButton"; normalTitle = "Gender expresssed"; ObjectID = "jFc-ba-9If"; */
+"jFc-ba-9If.normalTitle" = "Genre exprimé";
+
+/* Class = "UIButton"; normalTitle = "Language"; ObjectID = "jRn-U2-8JQ"; */
+"jRn-U2-8JQ.normalTitle" = "Langue";
+
+/* Class = "UILabel"; text = "Ex : Man"; ObjectID = "kGw-Zy-hpK"; */
+"kGw-Zy-hpK.text" = "Ex : Homme";
+
+/* Class = "UILabel"; text = "Elsewhere in Quebec"; ObjectID = "kzK-BC-xsh"; */
+"kzK-BC-xsh.text" = "Ailleurs au Québec";
+
+/* Class = "UILabel"; text = "tap to start recording"; ObjectID = "l2N-5e-64h"; */
+"l2N-5e-64h.text" = "Appuyez pour commencer l’enregistrement";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "lHz-ag-Jq9"; */
+"lHz-ag-Jq9.normalTitle" = "Annuler";
+
+/* Class = "UILabel"; text = "Ex : Friend"; ObjectID = "mXp-MI-OJB"; */
+"mXp-MI-OJB.text" = "Ex : Ami";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "ms5-TO-I2M"; */
+"ms5-TO-I2M.title" = "OK";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "mvy-kR-PIr"; */
+"mvy-kR-PIr.text" = "Réglages";
+
+/* Class = "UILabel"; text = "Video"; ObjectID = "n8Q-Rc-c6G"; */
+"n8Q-Rc-c6G.text" = "Vidéo";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "nAg-Ur-R5n"; */
+"nAg-Ur-R5n.title" = "OK";
+
+/* Class = "UILabel"; text = "CPRMV"; ObjectID = "nBk-Fi-EX9"; */
+"nBk-Fi-EX9.text" = "CPRMV";
+
+/* Class = "UILabel"; text = "Ex : 18 to 30"; ObjectID = "nC2-Ne-fqY"; */
+"nC2-Ne-fqY.text" = "Ex : 18 à 30";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "nMR-GN-EGc"; */
+"nMR-GN-EGc.text" = "Prénom";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "ncR-AE-SmE"; */
+"ncR-AE-SmE.normalTitle" = "Continuer";
+
+/* Class = "UITextField"; placeholder = "Ex: service or line number, etc."; ObjectID = "p0g-bG-YdF"; */
+"p0g-bG-YdF.placeholder" = "Ex : ville ou région, numéro de service ou de ligne, etc.";
+
+/* Class = "UILabel"; text = "You are :"; ObjectID = "pRZ-br-oMp"; */
+"pRZ-br-oMp.text" = "Vous êtes :";
+
+/* Class = "UILabel"; text = "Witness"; ObjectID = "pYK-Wb-014"; */
+"pYK-Wb-014.text" = "Témoin";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "pfH-wf-AhH"; */
+"pfH-wf-AhH.placeholder" = "Prénom";
+
+/* Class = "UILabel"; text = "URL"; ObjectID = "q3y-fK-l0H"; */
+"q3y-fK-l0H.text" = "URL";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "qo4-oO-dqH"; */
+"qo4-oO-dqH.normalTitle" = "Non";
+
+/* Class = "UILabel"; text = "H 3 E 2 W 4 T"; ObjectID = "rFh-Zm-pzN"; */
+"rFh-Zm-pzN.text" = "H 3 E 2 W 4 T";
+
+/* Class = "UIButton"; normalTitle = "Aggressor"; ObjectID = "sUV-AL-7hl"; */
+"sUV-AL-7hl.normalTitle" = "Agresseur";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "Iq9-cZ-Il1"; */
+"Iq9-cZ-Il1.normalTitle" = "Retirer";
+
+/* Class = "UIButton"; normalTitle = "Remove"; ObjectID = "aod-fe-rYu"; */
+"aod-fe-rYu.normalTitle" = "Retirer";
+
+/* Class = "UIButton"; normalTitle = "Date of incident"; ObjectID = "skM-eV-Hvk"; */
+"skM-eV-Hvk.normalTitle" = "Date de l’incident";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "tNn-hB-f1j"; */
+"tNn-hB-f1j.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Description of the incident"; ObjectID = "tnX-Xw-Z0T"; */
+"tnX-Xw-Z0T.text" = "Description de l’incident";
+
+/* Class = "UILabel"; text = "Ex : Atheist"; ObjectID = "u6R-9s-Ppz"; */
+"u6R-9s-Ppz.text" = "Ex : Athée";
+
+/* Class = "UILabel"; text = "When did the incident occur?"; ObjectID = "uIO-uY-aML"; */
+"uIO-uY-aML.text" = "Quand s'est produit l'incident?";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "uRK-6s-dtd"; */
+"uRK-6s-dtd.normalTitle" = "Oui";
+
+/* Class = "UILabel"; text = "When did the incident occur?"; ObjectID = "vBx-2R-dp7"; */
+"vBx-2R-dp7.text" = "Quand s’est produit l’incident?";
+
+/* Class = "UILabel"; text = "https://www.google.com/search?q..."; ObjectID = "vnC-yM-aVj"; */
+"vnC-yM-aVj.text" = "https://www.google.com/search?q...";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "w09-oY-tpD"; */
+"w09-oY-tpD.normalTitle" = "Suivant";
+
+/* Class = "UILabel"; text = "Ex : dd/mm/yyyyy"; ObjectID = "w0b-NU-H7Q"; */
+"w0b-NU-H7Q.text" = "Ex : dd/mm/yyyyy";
+
+/* Class = "UILabel"; text = "Ex : dd/mm/yyyy"; ObjectID = "wGJ-dF-j9V"; */
+"wGJ-dF-j9V.text" = "Ex : dd/mm/yyyy";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "y3E-58-CeP"; */
+"y3E-58-CeP.normalTitle" = "Accueil";
+
+/* Class = "UILabel"; text = "Help\nResources"; ObjectID = "y4y-qg-1dn"; */
+"y4y-qg-1dn.text" = "Ressources\nd’aide";
+
+/* Class = "UIButton"; normalTitle = "Sexual orientation"; ObjectID = "ySU-aC-GJL"; */
+"ySU-aC-GJL.normalTitle" = "Orientation sexuelle";
+
+/* Class = "UILabel"; text = "Learn More +"; ObjectID = "yzz-6G-WjB"; */
+"yzz-6G-WjB.text" = "En savoir +";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "z15-R0-IRf"; */
+"z15-R0-IRf.normalTitle" = "Non";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "z1h-Zx-t12"; */
+"z1h-Zx-t12.normalTitle" = "Suivant";
+
+/* Class = "UIBarButtonItem"; title = "OK"; ObjectID = "zbC-gA-9fM"; */
+"zbC-gA-9fM.title" = "OK";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "daY-zY-tBZ"; */
+"daY-zY-tBZ.text" = "A propos";
+
+/* Class = "UILabel"; text = "When did the incident occur?"; ObjectID = "WJt-I8-LzC"; */
+"WJt-I8-LzC.text" = "Quand s’est produit l’incident?";
+
+/* Class = "UILabel"; text = "Ex : Handicap mental"; ObjectID = "rzs-Kf-8nQ"; */
+"rzs-Kf-8nQ.text" = "Ex : Handicap mental";
+
+/* Class = "UILabel"; text = "To act together against"; ObjectID = "yp7-dn-cb3"; */
+"yp7-dn-cb3.text" = "Agir ensemble contre";
+
+/* Class = "UILabel"; text = "hatred"; ObjectID = "mjh-jl-Xlu"; */
+"mjh-jl-Xlu.text" = "la haine";
